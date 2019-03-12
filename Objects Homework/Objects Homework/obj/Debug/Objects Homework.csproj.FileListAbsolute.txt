@@ -1,0 +1,7 @@
+C:\Users\pepi\source\repos\Objects Homework\Objects Homework\bin\Debug\Objects Homework.exe.config
+C:\Users\pepi\source\repos\Objects Homework\Objects Homework\bin\Debug\Objects Homework.exe
+C:\Users\pepi\source\repos\Objects Homework\Objects Homework\bin\Debug\Objects Homework.pdb
+C:\Users\pepi\source\repos\Objects Homework\Objects Homework\obj\Debug\Objects Homework.csprojAssemblyReference.cache
+C:\Users\pepi\source\repos\Objects Homework\Objects Homework\obj\Debug\Objects Homework.csproj.CoreCompileInputs.cache
+C:\Users\pepi\source\repos\Objects Homework\Objects Homework\obj\Debug\Objects Homework.exe
+C:\Users\pepi\source\repos\Objects Homework\Objects Homework\obj\Debug\Objects Homework.pdb
