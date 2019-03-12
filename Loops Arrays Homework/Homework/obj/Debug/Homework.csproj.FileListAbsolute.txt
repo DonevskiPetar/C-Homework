@@ -1,0 +1,14 @@
+C:\Users\pepi\source\repos\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\pepi\source\repos\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\pepi\source\repos\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\pepi\source\repos\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\pepi\source\repos\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\pepi\source\repos\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\pepi\source\repos\Homework\Homework\obj\Debug\Homework.pdb
+C:\Users\pepi\source\repos\Loops Arrays homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\pepi\source\repos\Loops Arrays homework\Homework\bin\Debug\Homework.exe
+C:\Users\pepi\source\repos\Loops Arrays homework\Homework\bin\Debug\Homework.pdb
+C:\Users\pepi\source\repos\Loops Arrays homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\pepi\source\repos\Loops Arrays homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\pepi\source\repos\Loops Arrays homework\Homework\obj\Debug\Homework.exe
+C:\Users\pepi\source\repos\Loops Arrays homework\Homework\obj\Debug\Homework.pdb
