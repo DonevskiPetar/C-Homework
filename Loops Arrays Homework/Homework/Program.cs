@@ -120,46 +120,6 @@ namespace Homework
             }
 
 
-
-
-
-            //string[] names = new string[1];
-            //int index = 0;
-            //int counter = 1;
-            //string yesNo = "";
-
-            //do
-            //{
-            //    Console.WriteLine("Enter a name");
-            //    var input = Console.ReadLine();
-            //    names[index] = input;
-            //    Console.WriteLine("The name in the array is:");
-            //    foreach (string name in names)
-            //    {
-            //        Console.WriteLine(name);
-            //    }
-            //    Console.WriteLine("Do you want to enter another name? (Y / N)");
-            //    yesNo = Console.ReadLine();
-            //}
-
-            //while (yesNo != "Y" && yesNo != "N");
-            //{
-            //    Console.WriteLine("Enter a valid input!");
-            //    yesNo = Console.ReadLine();
-            //}
-            //if(yesNo == "Y")
-            //{
-            //    counter++;
-            //    index++;
-            //    Array.Resize(ref names, counter);
-            //}
-            //while (yesNo != "N") ;
-            //Console.ReadLine();
-
-
-
-
-
             //Github Task No.2
             //int[] numbersArray = new int[20];
             //for(int i = 0; i <numbersArray.Length; i++){
