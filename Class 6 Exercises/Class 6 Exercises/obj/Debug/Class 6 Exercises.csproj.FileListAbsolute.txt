@@ -1,0 +1,7 @@
+C:\Users\pepi\source\repos\Class 6 Exercises\Class 6 Exercises\bin\Debug\Class 6 Exercises.exe.config
+C:\Users\pepi\source\repos\Class 6 Exercises\Class 6 Exercises\bin\Debug\Class 6 Exercises.exe
+C:\Users\pepi\source\repos\Class 6 Exercises\Class 6 Exercises\bin\Debug\Class 6 Exercises.pdb
+C:\Users\pepi\source\repos\Class 6 Exercises\Class 6 Exercises\obj\Debug\Class 6 Exercises.csprojAssemblyReference.cache
+C:\Users\pepi\source\repos\Class 6 Exercises\Class 6 Exercises\obj\Debug\Class 6 Exercises.csproj.CoreCompileInputs.cache
+C:\Users\pepi\source\repos\Class 6 Exercises\Class 6 Exercises\obj\Debug\Class 6 Exercises.exe
+C:\Users\pepi\source\repos\Class 6 Exercises\Class 6 Exercises\obj\Debug\Class 6 Exercises.pdb
