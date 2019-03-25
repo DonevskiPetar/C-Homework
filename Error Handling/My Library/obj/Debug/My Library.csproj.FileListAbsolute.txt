@@ -1,0 +1,12 @@
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\CSharp\Error Handling\My Library\bin\Debug\My Library.dll
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\CSharp\Error Handling\My Library\bin\Debug\My Library.pdb
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\CSharp\Error Handling\My Library\obj\Debug\My Library.csprojAssemblyReference.cache
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\CSharp\Error Handling\My Library\obj\Debug\My Library.csproj.CoreCompileInputs.cache
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\CSharp\Error Handling\My Library\obj\Debug\My Library.dll
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\CSharp\Error Handling\My Library\obj\Debug\My Library.pdb
+C:\Users\pepi\Desktop\Error Handling\My Library\bin\Debug\My Library.dll
+C:\Users\pepi\Desktop\Error Handling\My Library\bin\Debug\My Library.pdb
+C:\Users\pepi\Desktop\Error Handling\My Library\obj\Debug\My Library.csprojAssemblyReference.cache
+C:\Users\pepi\Desktop\Error Handling\My Library\obj\Debug\My Library.csproj.CoreCompileInputs.cache
+C:\Users\pepi\Desktop\Error Handling\My Library\obj\Debug\My Library.dll
+C:\Users\pepi\Desktop\Error Handling\My Library\obj\Debug\My Library.pdb
