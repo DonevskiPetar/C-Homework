@@ -1,0 +1,12 @@
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\pepi\Desktop\Fighter App\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\pepi\Desktop\Fighter App\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\pepi\Desktop\Fighter App\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+C:\Users\pepi\Desktop\Fighter App\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pepi\Desktop\Fighter App\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\pepi\Desktop\Fighter App\MyLibrary\obj\Debug\MyLibrary.pdb
