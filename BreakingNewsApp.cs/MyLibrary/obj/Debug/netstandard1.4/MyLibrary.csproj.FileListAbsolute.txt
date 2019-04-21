@@ -1,0 +1,8 @@
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\MyLibrary\bin\Debug\netstandard1.4\MyLibrary.deps.json
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\MyLibrary\obj\Debug\netstandard1.4\MyLibrary.csprojAssemblyReference.cache
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\MyLibrary\obj\Debug\netstandard1.4\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\MyLibrary\obj\Debug\netstandard1.4\MyLibrary.AssemblyInfo.cs
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\MyLibrary\bin\Debug\netstandard1.4\MyLibrary.dll
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\MyLibrary\bin\Debug\netstandard1.4\MyLibrary.pdb
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\MyLibrary\obj\Debug\netstandard1.4\MyLibrary.dll
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\MyLibrary\obj\Debug\netstandard1.4\MyLibrary.pdb

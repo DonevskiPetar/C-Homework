@@ -1,0 +1,10 @@
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\BreakingNewsApp.cs\obj\Debug\BreakingNewsApp.cs.csprojAssemblyReference.cache
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\BreakingNewsApp.cs\obj\Debug\BreakingNewsApp.cs.csproj.CoreCompileInputs.cache
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\BreakingNewsApp.cs\bin\Debug\BreakingNewsApp.cs.exe.config
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\BreakingNewsApp.cs\bin\Debug\BreakingNewsApp.cs.exe
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\BreakingNewsApp.cs\bin\Debug\BreakingNewsApp.cs.pdb
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\BreakingNewsApp.cs\bin\Debug\MyLibrary.dll
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\BreakingNewsApp.cs\bin\Debug\MyLibrary.pdb
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\BreakingNewsApp.cs\obj\Debug\BreakingNewsApp.cs.csproj.CopyComplete
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\BreakingNewsApp.cs\obj\Debug\BreakingNewsApp.cs.exe
+C:\Users\pepi\source\repos\BreakingNewsApp.cs\BreakingNewsApp.cs\obj\Debug\BreakingNewsApp.cs.pdb
