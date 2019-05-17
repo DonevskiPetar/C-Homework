@@ -1,0 +1,6 @@
+C:\Users\pepi\source\repos\E-Shop\Classes\bin\Debug\Classes.dll
+C:\Users\pepi\source\repos\E-Shop\Classes\bin\Debug\Classes.pdb
+C:\Users\pepi\source\repos\E-Shop\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\pepi\source\repos\E-Shop\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\pepi\source\repos\E-Shop\Classes\obj\Debug\Classes.dll
+C:\Users\pepi\source\repos\E-Shop\Classes\obj\Debug\Classes.pdb

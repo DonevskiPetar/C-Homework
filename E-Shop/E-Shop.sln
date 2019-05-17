@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Shop", "E-Shop\E-Shop.csproj", "{A90A110E-EFD6-4561-A60A-7B4E0B3FB3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{EDCBB2B2-905E-494D-A58E-CA1DA50E8F65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A90A110E-EFD6-4561-A60A-7B4E0B3FB3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90A110E-EFD6-4561-A60A-7B4E0B3FB3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90A110E-EFD6-4561-A60A-7B4E0B3FB3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90A110E-EFD6-4561-A60A-7B4E0B3FB3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCBB2B2-905E-494D-A58E-CA1DA50E8F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCBB2B2-905E-494D-A58E-CA1DA50E8F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCBB2B2-905E-494D-A58E-CA1DA50E8F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCBB2B2-905E-494D-A58E-CA1DA50E8F65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01E3988B-DE11-4888-91EE-07ED7F3A1457}
+	EndGlobalSection
+EndGlobal
